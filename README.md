@@ -2,4 +2,4 @@
 Mi primer repositorio para aprender a usar GitHub.
 
 
-Esta es una prueba de como trabajar con una branches y que son los Commit changes.
+Con esto estoy haciendo un repaso de las branches y las pull
